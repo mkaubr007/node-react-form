@@ -59,12 +59,13 @@ Make sure you have the following software installed on your machine:
 8. Start the development server for both the backend and frontend:
 
    ```bash
-   npm run dev
+   npm run dev-node,
+   npm start-react
    ```
 
    This will start the Node.js backend server and the React frontend development server concurrently.
 
-9. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
+9. Open your web browser and visit [http://localhost:3000] to access the application.
 
 ## Usage
 
